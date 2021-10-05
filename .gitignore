@@ -1,5 +1,6 @@
 #Unnecessary Files
-.pdf
+*.pdf
 
 #Bash scripts and test files
-.sh
+*.sh
+solution_template
