@@ -1,0 +1,5 @@
+#Unnecessary Files
+.pdf
+
+#Bash scripts and test files
+.sh
