@@ -2,7 +2,12 @@
 *.pdf
 *.text
 *.json
+*.txt
 
 #Bash scripts and test files
 *.sh
 solution_template
+additional_files/*
+
+#VSCode
+*.vscode/
