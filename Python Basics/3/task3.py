@@ -39,8 +39,7 @@ def longestCommonPrefix(x):
                 break
         if(br_flag == 1):
             break
-        else:
-            count += 1
+        count += 1
 
     # print(count)
     result = x_without_space[element_min_len][:count]
