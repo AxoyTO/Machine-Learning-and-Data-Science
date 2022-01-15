@@ -4,6 +4,8 @@
 *.json
 *.txt
 
+TgPyBot/
+
 #Bash scripts and test files
 *.sh
 solution_template
