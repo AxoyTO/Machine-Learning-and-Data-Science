@@ -4,6 +4,7 @@
 *.json
 *.txt
 *.DS_STORE
+*__pycache__
 
 TgPyBot/
 
