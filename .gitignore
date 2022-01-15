@@ -7,6 +7,9 @@
 *__pycache__
 *.idea
 ML-COURSE-21-22
+Notebook*_files
+*.html
+numpy-pandas-matplotlib/public_tests
 
 TgPyBot/
 
