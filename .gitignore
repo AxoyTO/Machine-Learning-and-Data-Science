@@ -3,6 +3,7 @@
 *.text
 *.json
 *.txt
+*.DS_STORE
 
 TgPyBot/
 
