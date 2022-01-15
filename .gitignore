@@ -5,6 +5,7 @@
 *.txt
 *.DS_STORE
 *__pycache__
+*.idea
 ML-COURSE-21-22
 
 TgPyBot/
