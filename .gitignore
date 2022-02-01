@@ -1,0 +1,22 @@
+#Unnecessary Files
+*.pdf
+*.text
+*.json
+*.txt
+*.DS_STORE
+*__pycache__
+*.idea
+ML-COURSE-21-22
+Notebook*_files
+*.html
+numpy-pandas-matplotlib/public_tests
+
+TgPyBot/
+
+#Bash scripts and test files
+*.sh
+solution_template
+additional_files/*
+
+#VSCode
+*.vscode/
