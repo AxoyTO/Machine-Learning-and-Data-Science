@@ -18,5 +18,8 @@ TgPyBot/
 solution_template
 additional_files/*
 
+#Specific files in specific folders of ML methods
+Linear Models/*.[(csv)|(ipynb)]*
+
 #VSCode
 *.vscode/
