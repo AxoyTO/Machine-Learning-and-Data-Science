@@ -31,3 +31,4 @@ Linear Models/*.[(csv)|(ipynb)]*
 *.virtual_documents
 *.ipynb_checkpoints
 DeepLearningAI/Mathematics/Files.zip
+IBM/*/*.zip
