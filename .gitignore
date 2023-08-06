@@ -10,6 +10,7 @@ ML-COURSE-21-22
 Notebook*_files
 *.html
 numpy-pandas-matplotlib/public_tests
+*tempCodeRunnerFile.py
 
 TgPyBot/
 
@@ -23,3 +24,10 @@ Linear Models/*.[(csv)|(ipynb)]*
 
 #VSCode
 *.vscode/
+
+###Course materials
+#DeepLearningAI/
+#IBM/
+*.virtual_documents
+*.ipynb_checkpoints
+DeepLearningAI/Mathematics/Files.zip
